@@ -1,0 +1,10 @@
+{
+  "id": 184169033,
+  "created_at": "2026-11-20T21:49:13.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["ValbertOCF.r-universe.dev"]
+}
