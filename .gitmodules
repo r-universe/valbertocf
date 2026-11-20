@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/valbertocf/valbertocf.r-universe.dev
 	branch = HEAD
+[submodule "metavidence"]
+	path = metavidence
+	url = https://github.com/ValbertOCF/MetaVidence
+	subdir = pkg
